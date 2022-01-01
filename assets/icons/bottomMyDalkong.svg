@@ -1,0 +1,4 @@
+<svg id="icon_my" data-name="icon/my" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <rect id="bg" width="24" height="24" fill="none"/>
+  <path id="icon_my-2" data-name="icon/my" d="M1,19.94a1,1,0,0,1-1-1V17A8,8,0,0,1,8,9h4a8,8,0,0,1,8,8V18.94a1,1,0,0,1-1,1ZM1.5,17v1.44h17V17A6.511,6.511,0,0,0,12,10.5H8A6.51,6.51,0,0,0,1.5,17ZM6,4a4,4,0,1,1,4,4A4,4,0,0,1,6,4ZM7.5,4A2.5,2.5,0,1,0,10,1.5,2.5,2.5,0,0,0,7.5,4Z" transform="translate(2 2)"/>
+</svg>
